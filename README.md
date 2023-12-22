@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @PRATIK SURESH BHURE
-- 👀 I’m interested in coading
-- 🌱 I’m currently learning web base java
+- 👀 I’m interested in coding
+- 🌱 I’m currently learning .NET
 - 💞️ I’m looking to collaborate on any IT company
 - 📫 How to reach me 
 
